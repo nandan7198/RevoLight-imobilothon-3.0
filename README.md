@@ -5,7 +5,7 @@ Illuminating Safety in Reverse – A Rear Headlamp Innovation for Enhanced Vehic
 
 
 ## Demonstration using Pygame
-![Click Here](RevoLight.mp4)
+[![Watch the Video](videoPng.png)](RevoLight.mp4)
 
 ## FlowChart
 ![Flow Chart](FlowChart.png)
