@@ -7,9 +7,9 @@ screen = pygame.display.set_mode((800, 600))
 pygame.display.set_caption("Car Simulation")
 font = pygame.font.Font(None, 36)
 
-car_image = pygame.image.load("volkswagen-polo.png")  # Load the car image
-headlights_on_image = pygame.image.load("HeadLights-On.png")  # Load the headlights on image
-reverse_lights_image = pygame.image.load("Reverse_Light.png")  # Load the reverse lights image
+car_image = pygame.image.load("RevoLight/volkswagen-polo.png")  # Load the car image
+headlights_on_image = pygame.image.load("RevoLight/HeadLights-On.png")  # Load the headlights on image
+reverse_lights_image = pygame.image.load("RevoLight/Reverse_Light.png")  # Load the reverse lights image
 
 night = "Press 'N' for Night"
 text_surface = font.render(night, True, (255, 255, 255))
